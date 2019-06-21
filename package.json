@@ -1,0 +1,26 @@
+{
+  "name": "my-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guelito1/my-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guelito1/my-api/issues"
+  },
+  "homepage": "https://github.com/Guelito1/my-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^7.11.0",
+    "sequelize": "^5.8.10"
+  }
+}
